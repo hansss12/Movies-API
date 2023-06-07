@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Silver Membership",
+        "price": 1500
+    },
+    {
+        "name": "Gold Membership",
+        "price": 3000
+    },
+    {
+        "name": "Platinum Membership",
+        "price": 5000
+    }
+]
