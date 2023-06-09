@@ -2,11 +2,11 @@
 
 # Link 
 ## Description
-i have deploy my API with railway here my API link down below
+i have deploy my API with railway here my API link down below you can use it i explain my routes down below this link
 - https://netflix-clone-production-5bbd.up.railway.app/
 
 
-## LIST ROUTER
+## LIST ROUTES
 
 # login / register route
 
