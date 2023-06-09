@@ -2,8 +2,8 @@
 
 # Link 
 ## Description
-i have deploy my API with railway here my link down below
-- netflix-clone-production-5bbd.up.railway.app
+i have deploy my API with railway here my API link down below
+- https://netflix-clone-production-5bbd.up.railway.app/
 
 
 ## LIST ROUTER
